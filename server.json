@@ -23,6 +23,38 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "id": 1604344685632,
+      "image": "",
+      "name": "P1",
+      "price": "1",
+      "description": "PRATO 1",
+      "available": true
+    },
+    {
+      "id": 1604344715192,
+      "image": "",
+      "name": "P4",
+      "price": "4",
+      "description": "PRATO 4",
+      "available": true
+    },
+    {
+      "id": 1604344747224,
+      "image": "",
+      "name": "7",
+      "price": "P7",
+      "description": "PRATO 7",
+      "available": true
+    },
+    {
+      "id": 1604344756527,
+      "image": "",
+      "name": "P8",
+      "price": "8",
+      "description": "PRATO 8",
+      "available": true
     }
   ]
 }
